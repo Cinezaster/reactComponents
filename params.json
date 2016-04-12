@@ -1,0 +1,6 @@
+{
+  "name": "React Components",
+  "tagline": "A big list of react components I use often or like a lot",
+  "body": "##Components\r\n### Drag & Drop\r\n* [react-dropzone](http://okonet.ru/react-dropzone/) : Simple HTML5 drag-drop zone with React.js.\r\n* [React DnD](http://gaearon.github.io/react-dnd/) : Drag and Drop for React\r\n\r\n### Input\r\n* [Draft.js](http://facebook.github.io/draft-js/) : RICH TEXT EDITOR FRAMEWORK FOR REACT\r\n* [Select2](https://github.com/rkit/react-select2-wrapper) : Select2 gives you a customizable select box\r\n\r\n## Extra\r\n### React UI\r\n* [Pure UI](http://rauchg.com/2015/pure-ui/) : How to design a good UI component with React\r\n\r\n### Redux tutorials\r\n* [Redux basics](http://rauchg.com/2015/pure-ui/) :https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
